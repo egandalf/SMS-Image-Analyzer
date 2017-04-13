@@ -1,6 +1,6 @@
 # SMS Image Analyzer
 
-This is the code for an SMS Service that I wrote for my Dad. See the related blog post.
+This is the code for an SMS Service that I wrote for my Dad. [See the related blog post](http://egandalf.blogspot.com/2017/04/200-lines-or-less-combining-twilio-aws.html).
 
 I won't share the number or endpoint (can't afford massive hits...).
 

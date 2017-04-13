@@ -1,0 +1,26 @@
+{
+  "name": "processimage",
+  "version": "1.0.0",
+  "description": "Processes an image and sends a response.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "images",
+    "cognitive",
+    "services",
+    "processing",
+    "identification"
+  ],
+  "author": "James Stout <jstout@brightfind.com> (http://www.brightfind.com)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.40.0",
+    "cognitive-services": "^0.1.1",
+    "node-fetch": "^1.6.3",
+    "promise": "^7.1.1",
+    "qs": "^6.4.0",
+    "twilio": "^2.11.1"
+  }
+}
